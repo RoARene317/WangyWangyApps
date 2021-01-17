@@ -1,2 +1,2 @@
 # WangyWangyApps
-Stress.
+Alat untuk membuat anda menjadi stress.
