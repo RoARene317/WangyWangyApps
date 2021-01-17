@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-#define ll long long int
-#define ull unsigned long long int
-#define printcase printf("Case #%d: ",i+1)
 
 int main(){
 char str[255];
