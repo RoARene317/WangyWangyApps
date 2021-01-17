@@ -25,7 +25,7 @@ scanf("%d",&n);
 printf("\n");
 printf("\n");
 printf("\n");
-printf("Tekan Ctrl + C untuk mengakhiri program...");
+printf("Tekan X di pojok kanan atas untuk mengakhiri program...");
 sleep (3600);
 return 0;
 }
